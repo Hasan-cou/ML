@@ -13,7 +13,7 @@ from sklearn.tree import DecisionTreeRegressor, DecisionTreeClassifier
 # from utils import isNumerical
 import os
 from modules import utils
-from forms.utils import isNumerical
+#from forms.utils import isNumerical
 
 
 def main():

@@ -3,7 +3,7 @@ import pandas as pd
 import streamlit as st
 import time
 from pandas.api.types import is_numeric_dtype
-from pandas_profiling import ProfileReport
+#from pandas_profiling import ProfileReport
 
 def isCategorical(col):
     unis = np.unique(col)
